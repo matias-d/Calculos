@@ -1,3 +1,8 @@
-# Calculos
+#### Programa de Calculos
 
-Una pequeño programa en donde calcula el Perimetro , Area y Diametro en caso del Circulo del input que reciba.
+----
+- ##### Desc.
+ Calcular Diferentes Medidas De Figuras Geometricas.
+##### :heavy_check_mark: Area y Perimetro  del Cuadrado con sus respectivos lados.
+#####  :heavy_check_mark: Area (lados) y Perimetro (base y altura) del Triangulo.
+#####  :heavy_check_mark: Area, Perimetro y Diametro del Circulo con el radio.
